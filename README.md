@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1Se41167yX
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 
 基于Vue.js和SpringBoot的网上订餐系统，分为用户网页和管理后台，可以给管理员、会员使用，包括会员管理模块、菜品分类模块、菜品档案模块、菜品订单模块、订单配送模块和系统基础模块，项目编号T018。
